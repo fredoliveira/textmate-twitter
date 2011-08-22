@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;form&gt;
+	&lt;fieldset&gt;
+		&lt;legend&gt;Form legend example&lt;/legend&gt;
+		&lt;div class="clearfix"&gt;
+			&lt;label for="testinput"&gt;Textfield label&lt;/label&gt;
+			&lt;div class="input"&gt;
+				&lt;input type="text" name="testinput" value="" id="testinput" placeholder="Placeholder value"&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix"&gt;
+			&lt;label for="testinput2"&gt;Textarea label&lt;/label&gt;
+			&lt;div class="input"&gt;
+				&lt;textarea name="testinput2" rows="2"&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class="actions"&gt;
+			&lt;button type="submit" class="btn primary"&gt;Submit changes&lt;/button&gt;
+			&lt;button type="reset" class="btn"&gt;Cancel&lt;/button&gt;
+		&lt;/div&gt;
+	&lt;/fieldset&gt;
+&lt;/form&gt;</string>
+	<key>name</key>
+	<string>Form</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ttf</string>
+	<key>uuid</key>
+	<string>61AFE3EB-515F-451A-A51B-E6C9584253B9</string>
+</dict>
+</plist>

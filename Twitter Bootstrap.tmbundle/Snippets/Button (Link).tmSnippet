@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;a href="${1:http://}" class="btn ${2:primary} ${3:small}"&gt;$4&lt;/a&gt;</string>
+	<key>name</key>
+	<string>Button (Link)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ttb</string>
+	<key>uuid</key>
+	<string>F96C8831-E38F-4BAC-964D-7EF0E52A3E5C</string>
+</dict>
+</plist>

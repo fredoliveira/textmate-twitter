@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="container-fluid"&gt;
+	&lt;div class="sidebar"&gt;
+		$1
+	&lt;/div&gt;
+	&lt;div class="content"&gt;
+		$2
+	&lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Layout (Fluid)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ttl</string>
+	<key>uuid</key>
+	<string>53E35514-BB78-4A66-A25F-0C18EEFF73C8</string>
+</dict>
+</plist>

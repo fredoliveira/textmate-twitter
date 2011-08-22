@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;table class="common-table zebra-striped"&gt;
+	$1
+&lt;/table&gt;</string>
+	<key>name</key>
+	<string>Table (Zebra)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ttt</string>
+	<key>uuid</key>
+	<string>8455A66A-F527-41F7-AAD9-B58123C5E40A</string>
+</dict>
+</plist>
