@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;button type="submit" class="btn ${1:primary} ${2:small}"&gt;Submit changes&lt;/button&gt;</string>
+	<string>&lt;button type="submit" class="btn ${1:primary} ${2:small}"&gt;${3:Submit Changes}&lt;/button&gt;</string>
 	<key>name</key>
 	<string>Button</string>
 	<key>scope</key>

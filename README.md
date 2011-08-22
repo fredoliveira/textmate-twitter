@@ -4,7 +4,9 @@ Twitter has recently launched [Bootstrap](http://twitter.github.com/bootstrap/),
 
 This is where this bundle comes in. Clone it to your computer, install it on your Textmate (by double clicking the bundle) and you'll be on your way to starting using Bootstrap much faster than you normally would. All snippet commands in this bundle start with `tt` (for Twitter, basically). 
 
-## Included commands
+## Included snippets
+
+*You can use any of these snippets by writing the commands below and pressing tab inside any HTML document (or one that derives from the HTML scope in TextMate)*
 
 ### Layouts, grids, containers
 

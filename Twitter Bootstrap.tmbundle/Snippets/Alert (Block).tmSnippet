@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="alert-message block-message ${1:error/warning/success/info}"&gt;
+	&lt;p&gt;&lt;strong&gt;Oh snap! You got an error!&lt;/strong&gt; Change this and that and try again. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+	&lt;p&gt;&lt;a class="btn small" href="#"&gt;Take this action&lt;/a&gt; &lt;a class="btn small" href="#"&gt;Or do this&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Alert (Block)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>tta</string>
+	<key>uuid</key>
+	<string>8865854D-0BB9-4610-B303-5C979742F482</string>
+</dict>
+</plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;a href="${1:http://}" class="btn ${2:primary} ${3:small}"&gt;${4:Link text}&lt;/a&gt;</string>
+	<string>&lt;div class="alert-message ${1:error/warning/success/info}"&gt;${2:Alert message goes here}&lt;/div&gt;</string>
 	<key>name</key>
-	<string>Button (Link)</string>
+	<string>Alert (Basic)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>ttb</string>
+	<string>tta</string>
 	<key>uuid</key>
-	<string>F96C8831-E38F-4BAC-964D-7EF0E52A3E5C</string>
+	<string>5896DEF0-C5A0-42E3-8A3A-D9ACF9ECAF91</string>
 </dict>
 </plist>

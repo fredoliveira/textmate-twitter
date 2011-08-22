@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;a href="${1:http://}" class="btn ${2:primary} ${3:small}"&gt;${4:Link text}&lt;/a&gt;</string>
+	<string>&lt;a href="${1:http://}" class="btn disabled ${2:primary} ${3:small}"&gt;${4:Link text}&lt;/a&gt;</string>
 	<key>name</key>
-	<string>Button (Link)</string>
+	<string>Button (Link Disabled)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>ttb</string>
 	<key>uuid</key>
-	<string>F96C8831-E38F-4BAC-964D-7EF0E52A3E5C</string>
+	<string>C22CE9FE-58DD-4D79-B86E-24C299C17354</string>
 </dict>
 </plist>
