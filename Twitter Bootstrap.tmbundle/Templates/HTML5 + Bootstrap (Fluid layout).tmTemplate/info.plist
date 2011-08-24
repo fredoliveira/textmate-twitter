@@ -12,10 +12,10 @@ fi</string>
 	<key>extension</key>
 	<string>html</string>
 	<key>name</key>
-	<string>HTML5 + Bootstrap (Fixed layout)</string>
+	<string>HTML5 + Bootstrap (Fluid layout)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>uuid</key>
-	<string>D97C183D-46D9-4F90-84BB-0445F0C97037</string>
+	<string>596B9B90-1B8D-4D31-877B-89D657A97A73</string>
 </dict>
 </plist>
